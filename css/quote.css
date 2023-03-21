@@ -46,7 +46,10 @@ cite {
 
 .testimonial-big span{
   color: var(--primary-color-1);
-  /* display: inline; */
+  display: inline;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
 }
 
 @media (max-width: 1000px) {
