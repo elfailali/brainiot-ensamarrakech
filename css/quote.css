@@ -46,7 +46,7 @@ cite {
 
 .testimonial-big span{
   color: var(--primary-color-1);
-  display: inline;
+  /* display: inline; */
 }
 
 @media (max-width: 1000px) {
