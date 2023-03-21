@@ -44,6 +44,11 @@ cite {
   display: none;
 }
 
+.testimonial-big span{
+  color: var(--primary-color-1);
+  display: inline;
+}
+
 @media (max-width: 1000px) {
     .quote-container {
       width: 100% !important;
@@ -85,3 +90,5 @@ cite {
       text-align: center;
     }
   }
+
+ 
